@@ -221,7 +221,7 @@ header.shadow{
     font-size: 4rem;
     margin-bottom: 1rem;
     font-weight: 700;
-    line-height: 3rem;
+    line-height: 4rem;
 }
 .home-img img{
     width: 110%;
@@ -276,7 +276,7 @@ header.shadow{
 }
 .product-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(240px,auto));
+    grid-template-columns: repeat(auto-fit,minmax(340px,auto));
     gap: 1rem;
     margin-top: 2rem;
 }
