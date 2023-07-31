@@ -276,7 +276,7 @@ header.shadow{
 }
 .product-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(1px,auto));
+    grid-template-columns: repeat(auto-fit,minmax(20px,auto));
     gap: 1rem;
     margin-top: 2rem;
 }
